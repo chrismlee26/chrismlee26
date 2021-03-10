@@ -6,4 +6,6 @@
 
 I'm Chris Lee, a Computer Science student @ Make School in SF. Formerly from the architectural space where I've spent 10 years designing offices, buildings and homes.
 
-![Chris' GitHub stats](https://github-readme-stats.vercel.app/api?username=chrismlee26&theme=synthwave&show_icons=true)
+![Chris' GitHub stats](https://github-readme-stats.vercel.app/api?username=chrismlee26&theme=dark&show_icons=true)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chrismlee26&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
