@@ -4,7 +4,7 @@
 
 ## Hey!
 
-I'm Chris Lee, a Computer Science student @ Make School in SF. Formerly from the architectural space where I've spent 10 years designing offices, buildings and homes.
+I'm Chris Lee, a Computer Science student @ Make School in SF. Formerly from the architectural space where I've spent 10 years designing offices, buildings and homes. Originally from Vancouver, BC but I've lived and worked in Shanghai (Architecture) and NYC (Product Developer in Fashion). 
 
 Currently working on mastering React & Python and learning React Native & Express/Vue.
 
