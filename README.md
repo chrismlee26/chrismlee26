@@ -4,9 +4,9 @@
 
 ## Hey!
 
-I'm Chris Lee, a Computer Science student @ Make School in SF. Formerly from the architectural space where I've spent 10 years designing offices, buildings and homes.
+I'm Chris Lee, a Computer Science student @ Make School '22 in SF. Formerly from the architectural space where I've spent 10 years designing offices, buildings and homes.
 
-Currently working on mastering React & Python and learning mobile development through React Native & Express/Vue.
+Currently working on mastering React & Python, backend through Express/Vue and learning mobile development through React Native.
 
 **Languages and Tools**
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
