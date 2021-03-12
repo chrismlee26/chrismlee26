@@ -1,4 +1,4 @@
-<img src="./images/github-header.png"></img>
+<img src="./images/github-header2.png"></img>
 
 ![Visitor Count](https://profile-counter.glitch.me/chrismlee26/count.svg)
 
