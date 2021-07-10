@@ -4,9 +4,9 @@
 
 ## Hey!
 
-I'm Chris Lee, a React & Javascript developer currently at Make School @ Dominican University of California '22 slowly growing into a full-stack SWE. Formerly a designer from the architectural space, I've lived and worked in Vancouver, Shanghai and NYC spending 10 years designing luxury homes, major corporate offices, buildings, furniture, products and fashion. I've dabbled as a punk-rock bassist with two EP's (sold a few hundred records, played a few dozen shows), flew Cessna's for 4 years and launched a brand as an entrepreneurial product developer. Join me as I continue my passion for building beautiful things through technology to create the awesome, useful commercial projects I've always imagined.
+I'm Chris Lee, a React & Javascript developer at Make School @ Dominican University of California '22. Formerly a designer from the architectural space, I've worked in Vancouver, Shanghai and NYC spending 10 years designing luxury homes, major corporate offices, buildings, furniture, products and fashion. I've dabbled as a punk-rock bassist with two EP's, flew Cessna's for 4 years, build & race motorcycles and launched a brand as an entrepreneurial product developer. Join me as I continue my passion for building beautiful things through technology to create the awesome, useful commercial projects I've always imagined.
 
-Currently working on mastering JS, React & Python, learning mobile in React Native and backend through Express/Vue.
+Currently working on mastering JS & React+Redux, Python, mobile in React Native and the MERN stack.
 
 **Languages and Tools**
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
@@ -15,6 +15,8 @@ Currently working on mastering JS, React & Python, learning mobile in React Nati
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
+<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/redux/redux.png"></code>
+<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 
