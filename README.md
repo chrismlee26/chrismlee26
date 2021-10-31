@@ -4,9 +4,9 @@
 
 ## Hey!
 
-I'm Chris Lee, a React & Javascript developer at Make School @ Dominican University of California '22. Formerly a designer from the architectural space, I've worked in Vancouver, Shanghai and NYC spending 10 years designing luxury homes, major corporate offices, buildings, furniture, products and fashion. I've dabbled as a punk-rock bassist with two EP's, flew Cessna's for 4 years, build & race motorcycles and launched a brand as an entrepreneurial product developer. Join me as I continue my passion for building beautiful things through technology to create the awesome, useful commercial projects I've always imagined.
+I'm Chris Lee, a full stack developer at Make School @ Dominican University of California '22.
 
-Currently working on mastering JS & React+Redux, Python, mobile in React Native and the MERN stack.
+Formerly from the architectural space, I've worked in Vancouver, Shanghai and NYC spending 10 years in leadership positions designing luxury homes, major corporate offices, buildings, furniture, products and fashion. I've dabbled as a punk-rock bassist with two EP's, flew Cessna's for 4 years, build & race motorcycles and launched an internationally published award-winning brand as an entrepreneurial product developer. Join me as I continue my passion for building beautiful things through technology to create the awesome, useful commercial projects I've always imagined.
 
 **Languages and Tools**
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
