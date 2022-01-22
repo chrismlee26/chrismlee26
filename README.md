@@ -14,10 +14,10 @@ Join me as I continue my passion for working with amazing people to build beauti
 
 #### Current WIP Projects (2022)
 
-[My Portfolio](https://chrislee.wtf): Jan 02, 2022 - Current. A very WIP code-from-scratch Portfolio in Next/TypeScript/TailwindCSS (with a lot of placeholders 🤕).&nbsp;
-[Fishcake](https://www.fishcake.io/): A food-tech startup & mobile app built in TypeScript + Ionic&nbsp;
-[Chrisgram](https://github.com/chrismlee26/chris-gram): MERN Stack app currently getting refactored to Next.js, Vercel and PostgreSQL&nbsp;
-[Make School Archives](https://makeschool.fail): A conservatory for everything Make School (2021)&nbsp;
+[My Portfolio](https://chrislee.wtf): Jan 02, 2022 - Current. A very WIP code-from-scratch Portfolio in Next/TypeScript/TailwindCSS (with a lot of placeholders 🤕).  
+[Fishcake](https://www.fishcake.io/): A food-tech startup & mobile app built in TypeScript + Ionic  
+[Chrisgram](https://github.com/chrismlee26/chris-gram): MERN Stack app currently getting refactored to Next.js, Vercel and PostgreSQL  
+[Make School Archives](https://makeschool.fail): A conservatory for everything Make School (2021)
 
 #### Languages and Tools
 
