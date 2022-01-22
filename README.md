@@ -12,9 +12,9 @@ For funsies I've toured as a punk-rock bassist with two EP's, flew Cessna's for 
 
 Join me as I continue my passion for working with amazing people to build beautiful things with tech, to create the awesome, useful commercial projects I've always imagined.
 
-#### Current WIP Projects (2022)
+#### Current WIP Projects 🤕 (2022)
 
-[My Portfolio](https://chrislee.wtf): Jan 02, 2022 - Current. A very WIP code-from-scratch Portfolio in Next/TypeScript/TailwindCSS (with a lot of placeholders 🤕).  
+[Work In Progress! Portfolio](https://chrislee.wtf): Jan 02, 2022 - Current. A code-from-scratch Portfolio in Next/TypeScript/TailwindCSS. v1.0.0 coming soon!
 [Fishcake](https://www.fishcake.io/): A food-tech startup & mobile app built in TypeScript + Ionic  
 [Chrisgram](https://github.com/chrismlee26/chris-gram): MERN Stack app currently getting refactored to Next.js, Vercel and PostgreSQL  
 [Make School Archives](https://makeschool.fail): A conservatory for everything Make School (2021)
@@ -37,3 +37,7 @@ Join me as I continue my passion for working with amazing people to build beauti
 
 | [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chrismlee26&layout=compact)](https://github.com/anuraghazra/github-readme-stats) | ![Chris' GitHub stats](https://github-readme-stats.vercel.app/api?username=chrismlee26&theme=dark&show_icons=true) |
 | ------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------ |
+
+#### Current Learnings 🤓 (Jan 2022 - May 2022)
+
+GraphQL, React-Native, Advanced Back End Web Patterns in Node, Go, Advanced Trees & Sorting Algorithms, Testing and Architecture & Raspberry Pi
