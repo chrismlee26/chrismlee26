@@ -14,9 +14,8 @@ Join me as I continue my passion for working with amazing people to build beauti
 
 #### Current WIP Projects 🤕 (2022)
 
-[Work In Progress! Portfolio](https://chrislee.wtf): Jan 02, 2022 - Current. A code-from-scratch Portfolio in Next/TypeScript/TailwindCSS. v1.0.0 coming soon!  
 [Fishcake](https://www.fishcake.io/): A food-tech startup & mobile app built in TypeScript + Ionic  
-[Chrisgram](https://github.com/chrismlee26/chris-gram): MERN Stack app currently getting refactored to Next.js, Vercel and PostgreSQL  
+[Chrisgram](https://github.com/chrismlee26/chris-gram): Full-stack MERN Stack app getting refactored to Next.js, Vercel and PostgreSQL  
 [Make School Archives](https://makeschool.fail): A conservatory for everything Make School (2021)
 
 #### Learning 🤓 (Jan 2022 - May 2022)
@@ -34,6 +33,7 @@ GraphQL, React-Native, Advanced Back End Web Patterns in Node, WebSockets, AWS, 
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
+<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/tailwind/tailwind.png"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/postgresql/postgresql.png"></code>
