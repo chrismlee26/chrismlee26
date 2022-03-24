@@ -15,8 +15,11 @@ Join me as I continue my passion for working with amazing people to build beauti
 #### Current WIP Projects 🤕 (2022)
 
 [Personal Portfolio <small><i>WIP</i></small>](https://chrislee.wtf/): Next.js + Typescript. Fully responsive, coded from scratch portfolio when I have time.
+
 [Make School Archives](https://makeschool.fail): Next.js + Typescript. A conservatory for everything Make School as of July 2021.
+
 [Fishcake](https://www.fishcake.io/): A food-tech startup & mobile app built in TypeScript + Ionic
+
 [Chrisgram](https://github.com/chrismlee26/chris-gram): Full-stack MERN Stack app getting refactored to Next.js, Vercel and PostgreSQL
 
 #### Learning 🤓 (Jan 2022 - May 2022)
