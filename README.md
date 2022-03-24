@@ -8,20 +8,20 @@ I'm Chris Lee -- A mostly Front-End but also sorta Full-Stack Web Developer work
 
 Formerly, a general-purpose designer, project manager, business-type guy, and consultant. I've worked in Vancouver, Shanghai and NYC spending 10 years designing and building luxury homes, major corporate offices, buildings, furniture, products and fashion.
 
-For funsies I've toured as a punk-rock bassist with two EP's, flew Cessna's for four years, build and race motorcycles, failed at a whole bunch of things and launched an award-winning PPE/ motorcycle techwear brand as an entrepreneurial product developer.
+For funsies I've toured as a punk-rock bassist with two EP's, flew Cessna's for a few years, build and race motorcycles, failed at a whole bunch of things and launched an award-winning PPE/ motorcycle techwear brand as an entrepreneurial product developer.
 
 Join me as I continue my passion for working with amazing people to build beautiful things with tech, to create the awesome, useful commercial projects I've always imagined.
 
 #### Current WIP Projects 🤕 (2022)
 
-Personal Portfolio <small><i>[Link Redacted]</i></small>: Nextjs+Typescript+TailwindCSS. Mobile -> Desktop Views. From scratch. Hosted on Vercel. Jan 2 - Current  
-[Fishcake](https://www.fishcake.io/): A food-tech startup & mobile app built in TypeScript + Ionic  
-[Chrisgram](https://github.com/chrismlee26/chris-gram): Full-stack MERN Stack app getting refactored to Next.js, Vercel and PostgreSQL  
-[Make School Archives](https://makeschool.fail): A conservatory for everything Make School (2021)
+[Personal Portfolio <small><i>WIP</i></small>](https://chrislee.wtf/): Next.js + Typescript. Fully responsive, coded from scratch portfolio when I have time.
+[Make School Archives](https://makeschool.fail): Next.js + Typescript. A conservatory for everything Make School as of July 2021.
+[Fishcake](https://www.fishcake.io/): A food-tech startup & mobile app built in TypeScript + Ionic
+[Chrisgram](https://github.com/chrismlee26/chris-gram): Full-stack MERN Stack app getting refactored to Next.js, Vercel and PostgreSQL
 
 #### Learning 🤓 (Jan 2022 - May 2022)
 
-GraphQL, React-Native, Advanced Back End Web Patterns in Node, WebSockets, AWS, Supabase, Go & Raspberry Pi
+Go, Raspberry Pi, Data Structures, Algorithms, Graph Theory
 
 #### Languages and Tools
 
