@@ -6,13 +6,13 @@
 
 I'm Chris Lee -- A mostly Front-End but also sorta Full-Stack Web Developer with a BSc in Applied Computer Science from Make School @ Dominican University of California '22.
 
-Through appreciating and analyzing the world around me, I've always been full of too many ideas, with a goal in life to learn and apply all the tools I need to create them.
+Driven by a curious enthusiasm for the world around me, I'm constantly full of new ideas with my only goal being to learn then apply all of the tools I need to create them.
 
-In my past life I've been a general-purpose designer, project manager, business-type guy, and consultant. I've worked in Vancouver, Shanghai and NYC spending 10 years planning, designing and constructing luxury homes, major corporate offices, buildings, furniture, inventing products and fashion at which I've found great success.
+In a past life I've been a general-purpose designer, project manager, business-type guy, and consultant. I've worked in Vancouver, Shanghai, and New York City where I spent a decade planning, designing and constructing luxury homes, major corporate offices, buildings, furniture, inventing new products at which I've found great success.
 
-For funsies I've toured as a punk-rock bassist with two EP's, flew Cessna's for a few years, build and race motorcycles, failed at a whole bunch of things and launched an award-winning PPE/ motorcycle techwear brand as an entrepreneurial product developer.
+For funsies I've toured as a punk-rock bassist with two EP's, flew Cessna's for a few years, build and race motorcycles, failed at a whole bunch of things and launched an award-winning PPE/ motorcycle fashion + techwear brand as an entrepreneurial product developer.
 
-Join me as I continue my passion for working with amazing people to build beautiful things with tech, to create the awesome, useful commercial projects I've always imagined.
+Join me as I continue my passion for working with amazing people to build beautiful things as I create the awesome, useful commercial projects I've always imagined.
 
 #### Current WIP Projects 🤕 (2022)
 
