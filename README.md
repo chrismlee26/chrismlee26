@@ -4,11 +4,11 @@
 
 ## Welcome ☺️
 
-I'm Chris Lee -- A mostly Front-End but also sorta Full-Stack Web Developer with a BSc in Applied Computer Science from Make School @ Dominican University of California '22.
+I'm Chris Lee -- A Front-End & Full-Stack Web Developer with a BSc in Applied Computer Science from Make School @ Dominican University of California '22.
 
-Driven by a curious enthusiasm for the world around me, I'm constantly full of new ideas with my only goal being to learn then apply all of the tools I need to create them.
+Driven by a curious enthusiasm for everything around me, I'm constantly full of new ideas with my life's goal to learn and apply all of the tools I need to create them.
 
-In a past life I've been a general-purpose designer, project manager, business-type guy, and consultant. I've worked in Vancouver, Shanghai, and New York City where I spent a decade planning, designing and constructing luxury homes, major corporate offices, buildings, furniture, inventing new products at which I've found great success.
+In a past life I've been a general-purpose designer, project manager, and consultant. I've worked in Vancouver, Shanghai, and New York City where I spent a decade planning, designing and constructing luxury homes, major corporate offices, buildings, furniture, and inventing new products at which I've found great success.
 
 For funsies I've toured as a punk-rock bassist with two EP's, flew Cessna's for a few years, build and race motorcycles, failed at a whole bunch of things and launched an award-winning PPE/ motorcycle fashion + techwear brand as an entrepreneurial product developer.
 
