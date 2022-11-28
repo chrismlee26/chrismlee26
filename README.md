@@ -4,29 +4,27 @@
 
 ## Welcome ☺️
 
-I'm Chris Lee -- A Front-End & Full-Stack Web Developer with a BSc in Applied Computer Science from Make School @ Dominican University of California '22.
+I'm Chris Lee -- A Product Manager and  Full-Stack Web Developer with a BSc in Applied Computer Science from Make School @ Dominican University of California '22.
 
-Driven by a curious enthusiasm for everything around me, I'm constantly full of new ideas with my life's goal to learn and apply all of the tools I need to create them.
+Driven by a curious enthusiasm for everything around me, I love to find and build ideas with my life's goal to learn and apply all of the tools I need to create them.
 
-In a past life I've been a general-purpose designer, project manager, and consultant. I've worked in Vancouver, Shanghai, and New York City where I spent a decade planning, designing and constructing luxury homes, major corporate offices, buildings, furniture, and inventing new products at which I've found great success.
+In a past life I've been a designer, project manager, and consultant. I've worked in Vancouver, Shanghai, and New York City where I spent a decade planning, designing and constructing luxury homes, major corporate offices, buildings, furniture, and inventing new products at which I've found great success.
 
-For funsies I've toured as a punk-rock bassist with two EP's, flew Cessna's for a few years, build and race motorcycles, failed at a whole bunch of things and launched an award-winning PPE/ motorcycle fashion + techwear brand as an entrepreneurial product developer.
+For fun I've toured as a punk-rock bassist and released two EP's, have a deep fascination with operating machinery flying Cessna's for a few years, I build and race motorcycles, failed at a whole bunch of things and launched an award-winning PPE/ motorcycle tech-wear brand as an founder and product developer.
 
 Join me as I continue my passion for working with amazing people to build beautiful things as I create the awesome, useful commercial projects I've always imagined.
 
-#### Current WIP Projects 🤕 (2022)
+#### Current WIP Projects 🤕
 
-[Personal Portfolio <small><i>WIP</i></small>](https://chrislee.wtf/): Next.js + Typescript. Fully responsive, coded from scratch portfolio when I have time.
+[Personal Portfolio <small><i>v0.5.2</i></small>](https://chrislee.wtf/): Fully responsive, coded from scratch portfolio when I have time.
 
-[Make School Archives](https://makeschool.fail): Next.js + Typescript. A conservatory for everything Make School as of July 2021.
+[Make School Archives](https://makeschool.fail): A conservatory for everything Make School as of July 2021.
 
-[Fishcake](https://www.fishcake.io/): A food-tech startup & mobile app built in TypeScript + Ionic
+[Limited Run](https://limitedrun.chrislee.wtf): Enabling makers with customizable 'flash retail' e-commerce spaces for limited edition and small batch products. 
 
-[Chrisgram](https://github.com/chrismlee26/chris-gram): Full-stack MERN Stack app getting refactored to Next.js, Vercel and PostgreSQL
+#### Learning 🤓
 
-#### Learning 🤓 (Jan 2022 - May 2022)
-
-Go, Data Structures, Algorithms, Graph Theory
+Three.js, tRPC, Python
 
 #### Languages and Tools
 
