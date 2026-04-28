@@ -14,7 +14,7 @@ I’m especially interested in products that sit at the intersection of software
 
 #### Current WIP Projects 🤕
 
-Stealth Project: An AI-native system using Claude Code and Cursor combining RAG & vector search, OCR, and computer vision to enable real-time diagnostics and workflow automation for mechanics and hobbyists on mobile devices. Designed end-to-end pipeline including ingestion, embedding, retrieval, and multimodal reasoning, exploring agent orchestration and real-world tool usage. To be released Q3 2026. 
+[Moto Ref <small><i>v1.02</i></small>](https://chrislee.wtf/experiments/moto-ref): An AI-native system using Claude Code and Cursor combining RAG & vector search, OCR, and computer vision to enable real-time diagnostics and workflow automation for mechanics and hobbyists on mobile devices. Designed end-to-end pipeline including ingestion, embedding, retrieval, and multimodal reasoning, exploring agent orchestration and real-world tool usage. To be released Q3 2026. 
 
 [Personal Portfolio <small><i>v0.7.1</i></small>](https://chrislee.wtf/): Fully responsive, coded from scratch portfolio when I have time.
 
