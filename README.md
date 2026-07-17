@@ -16,7 +16,11 @@ I’m especially interested in products that sit at the intersection of software
 
 [Moto Ref <small><i>v1.02</i></small>](https://chrislee.wtf/experiments/moto-ref): An AI-native system using Claude Code and Cursor combining RAG & vector search, OCR, and computer vision to enable real-time diagnostics and workflow automation for mechanics and hobbyists on mobile devices. Designed end-to-end pipeline including ingestion, embedding, retrieval, and multimodal reasoning, exploring agent orchestration and real-world tool usage. To be released Q3 2026. 
 
-[Personal Portfolio <small><i>v0.7.1</i></small>](https://chrislee.wtf/): Fully responsive, coded from scratch portfolio when I have time.
+[Personal Portfolio <small><i>v1.21</i></small>](https://chrislee.wtf/): Fully responsive, coded from scratch portfolio when I have time.
+
+[RideCast <small><i>2026-07-11</i></small>](https://www.chrislee.wtf/ridecast) Weather along your motorcycle route, timed to your ETA. Paste a Google Maps link, pick a departure time, and see conditions for every stretch of the ride.
+
+[NetworkGraph <small><i>2026-07-11</i></small>](https://www.chrislee.wtf/experiments/networkgraph) A lightweight planning tool for turning roadmaps into dependency maps that show what unlocks what.
 
 [Make School Archives](https://makeschool.fail): A conservatory for everything Make School as of July 2021.
 
